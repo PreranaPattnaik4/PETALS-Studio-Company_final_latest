@@ -1,0 +1,293 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "petals-logo",
+      "description": "The official PETALS Studio logo",
+      "imageUrl": "https://www.dropbox.com/scl/fi/lhtkhcn8o4tljcfw77my0/PETALS_LOGO.jfif?rlkey=7eugdcwi6pl0kyvlad5dwyn68&st=thgp99xf&raw=1",
+      "imageHint": "studio logo"
+    },
+    {
+      "id": "hero-main",
+      "description": "Premium storybooks with girl illustration for hero section",
+      "imageUrl": "https://www.dropbox.com/scl/fi/78rig5sx7pw6fefc430vd/storybooks-with-girl.png?rlkey=152z9tu4zddk82mu9i9899ebr&st=ox3v3eyl&raw=1",
+      "imageHint": "storybook girl"
+    },
+    {
+      "id": "hero-rose",
+      "description": "Large pink rose flower for homepage",
+      "imageUrl": "https://www.dropbox.com/scl/fi/841e9uqxkl4ul0q98qqon/rose-flower.png?rlkey=14j68kki56unrao99198d22ot&st=loosrkl7&raw=1",
+      "imageHint": "pink rose"
+    },
+    {
+      "id": "hero-castle",
+      "description": "Fantasy castle illustration emerging from a magical storybook",
+      "imageUrl": "https://picsum.photos/seed/petals-castle/800/1000",
+      "imageHint": "fantasy castle"
+    },
+    {
+      "id": "crystal-rose-universe",
+      "description": "The Crystal Rose fantasy kingdom artwork",
+      "imageUrl": "https://www.dropbox.com/scl/fi/4j2li40a8rqbi38cwpase/59c9c8da-f1ed-4998-8a12-cdefeb9539f4.png?rlkey=i6lamvkijlvkqdbunk2c0fkgp&st=psqh8e8t&raw=1",
+      "imageHint": "fantasy kingdom"
+    },
+    {
+      "id": "char-alora",
+      "description": "Alora The Serene Mermaid",
+      "imageUrl": "https://www.dropbox.com/scl/fi/0xkttpaj4jfk0ibv0bxud/unnamed-3.jpg?rlkey=14xnncegi4x9rco00m84qfm81&st=l5vxkmze&raw=1",
+      "imageHint": "mermaid illustration"
+    },
+    {
+      "id": "char-rosebella",
+      "description": "RoseBella Queen of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/x6z2r2892hnheyw31x94f/34020d5f-54b6-441f-a50c-20067e4d3210.png?rlkey=4kr03kiglxkssk4ka66yvm8yw&st=4aqvh9ni&raw=1",
+      "imageHint": "fantasy queen"
+    },
+    {
+      "id": "char-nerina",
+      "description": "Nerina Guardian of Ocean Dreams",
+      "imageUrl": "https://www.dropbox.com/scl/fi/77zmn5so7hfxfzylhqjpv/53a738a7-2fe2-4982-98ce-52035c69f6df.png?rlkey=3n8t7bn7q3og35s99f96qz5m8t&st=cpw472lf&raw=1",
+      "imageHint": "ocean fairy"
+    },
+    {
+      "id": "char-vespera",
+      "description": "Vespera The Midnight Weaver",
+      "imageUrl": "https://www.dropbox.com/scl/fi/ca57m3b0tljydy7khyje6/7f12c96d-f512-486d-9670-8f052f2ddbc3-Copy.png?rlkey=de7hpje3erq9zgcgelozp80ij&st=p0f1krww&raw=1",
+      "imageHint": "shadow weaver portrait"
+    },
+    {
+      "id": "sticker-rose",
+      "description": "Magical pink rose sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-rose/400/400",
+      "imageHint": "pink rose sticker"
+    },
+    {
+      "id": "sticker-butterfly",
+      "description": "Glistening butterfly sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-butterfly/400/400",
+      "imageHint": "butterfly sticker"
+    },
+    {
+      "id": "sticker-star",
+      "description": "Sparkling golden star sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-star/400/400",
+      "imageHint": "star sticker"
+    },
+    {
+      "id": "sticker-moon",
+      "description": "Silver crescent moon sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-moon/400/400",
+      "imageHint": "moon sticker"
+    },
+    {
+      "id": "sticker-crown",
+      "description": "Fairy tale crown sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-crown/400/400",
+      "imageHint": "crown sticker"
+    },
+    {
+      "id": "sticker-wand",
+      "description": "Magic wand sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-wand/400/400",
+      "imageHint": "magic wand sticker"
+    },
+    {
+      "id": "sticker-key",
+      "description": "Ancient enchanted key sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-key/400/400",
+      "imageHint": "key sticker"
+    },
+    {
+      "id": "sticker-potion",
+      "description": "Magical potion bottle sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-potion/400/400",
+      "imageHint": "potion bottle sticker"
+    },
+    {
+      "id": "sticker-heart",
+      "description": "Crystal heart sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-heart/400/400",
+      "imageHint": "heart sticker"
+    },
+    {
+      "id": "sticker-feather",
+      "description": "Enchanted bird feather sticker",
+      "imageUrl": "https://picsum.photos/seed/sticker-feather/400/400",
+      "imageHint": "feather sticker"
+    },
+    {
+      "id": "story-bedtime",
+      "description": "Gentle fantasy bedtime stories illustration",
+      "imageUrl": "https://picsum.photos/seed/bedtime/600/400",
+      "imageHint": "night sky"
+    },
+    {
+      "id": "story-adventure",
+      "description": "Exciting magical adventure journeys illustration",
+      "imageUrl": "https://picsum.photos/seed/adventure/600/400",
+      "imageHint": "magic forest"
+    },
+    {
+      "id": "story-lore",
+      "description": "Fantasy lore and legends illustration",
+      "imageUrl": "https://picsum.photos/seed/lore/600/400",
+      "imageHint": "ancient book"
+    },
+    {
+      "id": "book-whispers",
+      "description": "The Crystal Rose: Beneath the Whispering Waves book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/oywsonfqxxqfhemxfcqwr/c3799200-6091-4359-85f7-d0bda61fa419.png?rlkey=ce7te400m149in1iiw0vbum37&st=tvhwnkdj&raw=1",
+      "imageHint": "crystal rose book cover"
+    },
+    {
+      "id": "book-mermaids",
+      "description": "Songs of the Shimmering Sea book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/u3itgd5edbq8iwvw1n1bq/d8969c13-3598-4bf8-a96b-8a6505c55791.jfif?rlkey=lkkcglctrgry3qlp6ujvgud0y&st=a3704kd5&raw=1",
+      "imageHint": "mermaid book"
+    },
+    {
+      "id": "book-guardians",
+      "description": "Guardians of the Dream Petals book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/6qabvmist8f4md2icavo7/image-Copy.png?rlkey=kvvvs9k9i63bdyvpw3n2y83ca&st=ivvlj8py&raw=1",
+      "imageHint": "guardians book cover"
+    },
+    {
+      "id": "book-starlight",
+      "description": "The Starlight Lantern book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/2v7oeo4riqwpcnt839yjt/b6bb3aa8-9498-45bf-a24e-deba4071f77d.png?rlkey=eoj56ymynxjy27zeq07rwrk83&st=7gf8tbhd&raw=1",
+      "imageHint": "starlight lantern book cover"
+    },
+    {
+      "id": "book-kids-collection",
+      "description": "The Enchanted Storybook: A PETALS Collection for Kids",
+      "imageUrl": "https://www.dropbox.com/scl/fi/78rig5sx7pw6fefc430vd/storybooks-with-girl.png?rlkey=152z9tu4zddk82mu9i9899ebr&st=9qkmec99&raw=1",
+      "imageHint": "storybook for kids"
+    },
+    {
+      "id": "book-little-girl",
+      "description": "Be a Little Girl book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/6zhnds1vmatpgukkdfut4/37e3a06e-366d-4f51-a11b-32ef955d0947.jfif?rlkey=f0gmi2faw6osjrvu452e5d403&st=son9uezs&raw=1",
+      "imageHint": "little girl book"
+    },
+    {
+      "id": "book-wind",
+      "description": "Chronicles of the Wind-Whisperer book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/7iufq03vrvsdgh88fllet/4b742d07-d93a-4f33-b80e-9c9c363218b2.png?rlkey=cuxfl1yazf2334z8h73bhljo8&st=jh9mr479&raw=1",
+      "imageHint": "wind magic"
+    },
+    {
+      "id": "book-tea",
+      "description": "The Midnight Tea Party book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/2va48pgmy564s42f90v4g/Pink-and-Brown-Cute-Watercolor-Pastel-Illustrative-Book-Cover.png?rlkey=1vck4bd9ckin4qhodd6hn4nke&st=bfq5k18v&raw=1",
+      "imageHint": "tea party book cover"
+    },
+    {
+      "id": "book-map",
+      "description": "The Forgotten Map of Floria book cover",
+      "imageUrl": "https://www.dropbox.com/scl/fi/ih63b9hoii32c0ypnb12g/unnamed.png?rlkey=nu4pb0xu08hwzphplxqlypz1l&st=9xer3z7r&raw=1",
+      "imageHint": "fantasy map"
+    },
+    {
+      "id": "gallery-sisters",
+      "description": "RoseBella and Lunaria featured story illustration",
+      "imageUrl": "https://www.dropbox.com/scl/fi/7l8fcqx6g6ycr3pmdh4uf/7f12c96d-f512-486d-9670-8f052f2ddbc3.png?rlkey=t0er6s7hcvpkslpheorzn00qg&st=js9p7imp&raw=1",
+      "imageHint": "fantasy sisters portrait"
+    },
+    {
+      "id": "gallery-enchanted-valley",
+      "description": "The Enchanted Valley of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/sjbxfk1cib17cd2yc7xkq/818023bf-2691-4647-9130-599361e0a967.png?rlkey=w4dulwc3bpiaxv7553ni01s60&st=etbyuidr&raw=1",
+      "imageHint": "enchanted valley"
+    },
+    {
+      "id": "gallery-guardians",
+      "description": "Guardians of the Dream Petals Artwork",
+      "imageUrl": "https://www.dropbox.com/scl/fi/6qabvmist8f4md2icavo7/image-Copy.png?rlkey=kvvvs9k9i63bdyvpw3n2y83ca&st=0iq2wwnx&raw=1",
+      "imageHint": "dream guardians illustration"
+    },
+    {
+      "id": "gallery-mermaids",
+      "description": "Songs of the Shimmering Sea Artwork",
+      "imageUrl": "https://www.dropbox.com/scl/fi/u3itgd5edbq8iwvw1n1bq/d8969c13-3598-4bf8-a96b-8a6505c55791.jfif?rlkey=lkkcglctrgry3qlp6ujvgud0y&st=8ejdb7s7&raw=1",
+      "imageHint": "mermaid art"
+    },
+    {
+      "id": "gallery-whispering-library",
+      "description": "The Whispering Library of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/z22wh20mynu2xmoimxf4t/2285b66c-863d-486f-95b2-b33010b5d27e.png?rlkey=cqfpvfpry20c493lk5nnvo5as&st=0w0xgvg1&raw=1",
+      "imageHint": "magical library"
+    },
+    {
+      "id": "gallery-crystal-echoes",
+      "description": "Echoes of the Crystal Palace",
+      "imageUrl": "https://www.dropbox.com/scl/fi/oh8oi7pcsdb71kev59n7x/11d98071-034a-4a3f-bddd-933653df5453.png?rlkey=iq7pxmswwofqq4vleat4v9qs6&st=2fcflykp&raw=1",
+      "imageHint": "mystical garden"
+    },
+    {
+      "id": "gallery-mystic-shores",
+      "description": "Mystic Shores of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/8d8z0rbqysu0n6xy8ov6o/4865ac90-9a6b-4fa5-96f9-7141d9b8ec50.png?rlkey=iojjjf138xbokz6gtmd9bp6ut&st=07qly8up&raw=1",
+      "imageHint": "fantasy coastline"
+    },
+    {
+      "id": "gallery-shimmering-grotto",
+      "description": "The Shimmering Grotto of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/yuztvntmayuf3jpvqkp2a/OIG3-1.jpeg?rlkey=7ttgoz2h15d1nlkjhl9fvb0vq&st=fdhc0e0l&raw=1",
+      "imageHint": "crystal cavern"
+    },
+    {
+      "id": "gallery-map",
+      "description": "The Forgotten Map of Floria Artwork",
+      "imageUrl": "https://www.dropbox.com/scl/fi/ih63b9hoii32c0ypnb12g/unnamed.png?rlkey=nu4pb0xu08hwzphplxqlypz1l&st=9xer3z7r&raw=1",
+      "imageHint": "ancient map"
+    },
+    {
+      "id": "book-community-bg",
+      "description": "Magical shimmering grotto for book community section",
+      "imageUrl": "https://www.dropbox.com/scl/fi/yuztvntmayuf3jpvqkp2a/OIG3-1.jpeg?rlkey=7ttgoz2h15d1nlkjhl9fvb0vq&st=ek9l3xfw&raw=1",
+      "imageHint": "shimmering grotto"
+    },
+    {
+      "id": "gallery-mystic-garden",
+      "description": "The Secret Mystic Garden of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/io17h74ac8zf1eyq9v3uh/OIG2.jpeg?rlkey=4s8cctvc1n4n78xkypq1v2eua&st=diwtcl3v&raw=1",
+      "imageHint": "mystic garden"
+    },
+    {
+      "id": "gallery-crystal-cascades",
+      "description": "The Crystal Cascades of the Crystal Rose",
+      "imageUrl": "https://www.dropbox.com/scl/fi/4lshumscopvhnxxkpooiw/dfe47f05-fb5a-452b-8d24-992c49bd7140.png?rlkey=j4bulmwt91a2zwg2uz5ozv2gg&st=aifpidk2&raw=1",
+      "imageHint": "magical waterfall"
+    },
+    {
+      "id": "gallery-celestial-dreamscape",
+      "description": "Celestial dreamscape landscape for the gallery",
+      "imageUrl": "https://www.dropbox.com/scl/fi/lfqmo19y22yg4qi5s5xd7/16b293fe-8c21-434f-991c-cb78293b46b1.png?rlkey=os0vys0crin2kz1xe3yy6zspq&st=m38nfihy&raw=1",
+      "imageHint": "celestial landscape"
+    },
+    {
+      "id": "gallery-moonlit-whispers",
+      "description": "Whispers of the Moonlit Kingdom",
+      "imageUrl": "https://www.dropbox.com/scl/fi/88rtm5xfh6bemell6bru5/8d977113-88f3-4cbb-b46a-cb8c04f8883b-1.png?rlkey=mtm64710ni5gbe046mdvk2jkv&st=w2quaoih&raw=1",
+      "imageHint": "moonlit fantasy portrait"
+    },
+    {
+      "id": "gallery-seraph-luna",
+      "description": "The Ethereal Seraph of Luna character portrait",
+      "imageUrl": "https://www.dropbox.com/scl/fi/pxpge5plrlxv9jf20pih3/629fde95-3028-4b49-89b1-f20f1340640d.png?rlkey=zpv5frtf15l5hlrykj2r0nssf&st=sqkztg76&raw=1",
+      "imageHint": "celestial angel portrait"
+    },
+    {
+      "id": "hero-video-bg",
+      "description": "Echoes of the Crystal Palace for Video Page Hero",
+      "imageUrl": "https://www.dropbox.com/scl/fi/oh8oi7pcsdb71kev59n7x/11d98071-034a-4a3f-bddd-933653df5453.png?rlkey=iq7pxmswwofqq4vleat4v9qs6&st=bjnhs8e0&raw=1",
+      "imageHint": "fantasy kingdom"
+    },
+    {
+      "id": "gallery-moon-forest",
+      "description": "The Silver Moon Forest illustration",
+      "imageUrl": "https://www.dropbox.com/scl/fi/2yfo27q2lqhs74v26ftoe/eb7b8690-4609-4006-b3ff-7d0ba5ae3ac7.png?rlkey=3qmn2ur5kjcz66objt3c29r5j&st=gxppj4co&raw=1",
+      "imageHint": "moonlit forest"
+    }
+  ]
+}
